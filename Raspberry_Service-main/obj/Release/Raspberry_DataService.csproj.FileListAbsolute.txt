@@ -1,0 +1,8 @@
+c:\users\arnaud\documents\visual studio 2015\Projects\Raspberry_DataService\Raspberry_DataService\bin\Release\Raspberry_DataService.exe.config
+c:\users\arnaud\documents\visual studio 2015\Projects\Raspberry_DataService\Raspberry_DataService\bin\Release\Raspberry_DataService.exe
+c:\users\arnaud\documents\visual studio 2015\Projects\Raspberry_DataService\Raspberry_DataService\bin\Release\Raspberry_DataService.pdb
+c:\users\arnaud\documents\visual studio 2015\Projects\Raspberry_DataService\Raspberry_DataService\obj\Release\Raspberry_DataService.ProjectInstaller.resources
+c:\users\arnaud\documents\visual studio 2015\Projects\Raspberry_DataService\Raspberry_DataService\obj\Release\Raspberry_DataService.csproj.GenerateResource.Cache
+c:\users\arnaud\documents\visual studio 2015\Projects\Raspberry_DataService\Raspberry_DataService\obj\Release\Raspberry_DataService.exe
+c:\users\arnaud\documents\visual studio 2015\Projects\Raspberry_DataService\Raspberry_DataService\obj\Release\Raspberry_DataService.pdb
+c:\users\arnaud\documents\visual studio 2015\Projects\Raspberry_DataService\Raspberry_DataService\obj\Release\Raspberry_DataService.csprojResolveAssemblyReference.cache

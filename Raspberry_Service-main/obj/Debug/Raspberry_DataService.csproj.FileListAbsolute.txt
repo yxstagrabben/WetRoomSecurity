@@ -1,0 +1,9 @@
+c:/users/arnaud/documents/visual studio 2015/Projects/Raspberry_DataService/Raspberry_DataService/bin/Debug/Raspberry_DataService.exe.config
+c:/users/arnaud/documents/visual studio 2015/Projects/Raspberry_DataService/Raspberry_DataService/bin/Debug/Raspberry_DataService.exe
+c:/users/arnaud/documents/visual studio 2015/Projects/Raspberry_DataService/Raspberry_DataService/bin/Debug/Raspberry_DataService.pdb
+c:/users/arnaud/documents/visual studio 2015/Projects/Raspberry_DataService/Raspberry_DataService/obj/Debug/Raspberry_DataService.ProjectInstaller.resources
+c:/users/arnaud/documents/visual studio 2015/Projects/Raspberry_DataService/Raspberry_DataService/obj/Debug/Raspberry_DataService.csproj.GenerateResource.Cache
+c:/users/arnaud/documents/visual studio 2015/Projects/Raspberry_DataService/Raspberry_DataService/obj/Debug/Raspberry_DataService.exe
+c:/users/arnaud/documents/visual studio 2015/Projects/Raspberry_DataService/Raspberry_DataService/obj/Debug/Raspberry_DataService.pdb
+/home/anton/WaterLeak/Raspberry_Service-main/obj/Debug/Raspberry_DataService.exe
+/home/anton/WaterLeak/Raspberry_Service-main/obj/Debug/Raspberry_DataService.pdb
